@@ -10,6 +10,12 @@ This repository contains a case study on COVID-19 dataset. COVID-19 database was
 
 ## Dashboard Photos
 
+![image](https://user-images.githubusercontent.com/68999346/198082930-6bac7089-c1fc-4223-8ce5-f72e28b7e00a.png)
+--
+![image](https://user-images.githubusercontent.com/68999346/198083015-1eaacbd2-e1a6-4012-b9b5-5002e0d5b211.png)
+--
+![image](https://user-images.githubusercontent.com/68999346/198083124-fdad899f-e5ec-435c-9e15-6392c4c5b0a7.png)
+
 
 
 More in `Dashboard`.
