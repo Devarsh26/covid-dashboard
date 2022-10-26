@@ -1,2 +1,4 @@
 *.sql linguist-detectable=true
+*.tableau linguist-detectable=true
+
 
