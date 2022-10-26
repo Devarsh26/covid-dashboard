@@ -8,6 +8,10 @@ This repository contains a case study on COVID-19 dataset. COVID-19 database was
 
 - The dashboard was designed on Figma and built on Tableau.
 
+## Tableau Dashboard
+
+:link: https://public.tableau.com/app/profile/devarsh2381/viz/CovidDeathsDashboardasof07-07-2021/Dashboard2 
+
 ## Dashboard Photos
 
 ![image](https://user-images.githubusercontent.com/68999346/198082930-6bac7089-c1fc-4223-8ce5-f72e28b7e00a.png)
